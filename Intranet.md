@@ -1,4 +1,4 @@
-What is an intranet?
+# What is an intranet?
 
 An Intranet is a private network usually owned by an entreprise.  It is used to share information between a set of approuve people.  Not everyone can access the files shared on an intranet.
 
@@ -10,7 +10,7 @@ Unfortunatly, intranets still face problems such as viruses, worms and other typ
 
 
 
-Here are some useful links to further help:
+# Here are some useful links to further help:
 
 This link gives a simple but detailled description of Intranet and how it functions within your workplace:
 
