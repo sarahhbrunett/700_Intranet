@@ -26,7 +26,7 @@ https://www.google.com/search?q=intranet+definition&rlz=1C1GCEU_enCA1084CA1084&o
 
 
 # Further explanation:
-#Building:
+# Building:
 https://powell-software.com/resources/blog/how-to-build-an-intranet/
 
 https://axerosolutions.com/resources/build-intranet
