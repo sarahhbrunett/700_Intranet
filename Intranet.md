@@ -24,3 +24,13 @@ This article will list differents risks associated with intranet:
 
 https://www.google.com/search?q=intranet+definition&rlz=1C1GCEU_enCA1084CA1084&oq=intranet+de&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDI5MjdqMGo5qAIAsAIB&sourceid=chrome&ie=UTF-8
 
+
+# Further explanation:
+#Building:
+https://powell-software.com/resources/blog/how-to-build-an-intranet/
+
+https://axerosolutions.com/resources/build-intranet
+
+# Software options
+
+https://peoplemanagingpeople.com/tools/best-intranet-software/
