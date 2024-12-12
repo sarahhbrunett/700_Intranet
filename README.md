@@ -1,1 +1,1 @@
-# 700_Intranet
+# Project on 700 intranets
